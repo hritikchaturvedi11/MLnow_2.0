@@ -22,10 +22,6 @@ Univariate Linear regression prediction is an algorithm in machine learning for 
     <a href="https://github.com/hritikchaturvedi11/MLnow_2.0/issues">Request Feature</a>
   </p>
 </p>
-
-
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -36,21 +32,14 @@ Univariate Linear regression prediction is an algorithm in machine learning for 
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
- 
+     <a href="#getting-started">Getting Started</a>
+    </li> 
+    <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-   </ol>
+  </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 The main idea behind creating this repo was too, implement the linear regression for univariate problem set using neural approach. This project will have two files. Both these files have been used to explore different datasets and perform EDA and than our regression problem on them.
@@ -64,7 +53,6 @@ This section should list any major frameworks that you built your project using.
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -74,7 +62,6 @@ To get a local copy up and running follow these simple example steps.
 
 Person to work on this repo will require basic knowledge of python and machine learning.
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -85,7 +72,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin MLnow_2.0`)
 5. Open a Pull Request
 
-<!-- CONTACT -->
 ## Contact
 
 Hritik Chaturvedi - [@your_linkedin](https://www.linkedin.com/in/hritik-chaturvedi-72424317b/) - hritikchaturvedi11@gmail.com
