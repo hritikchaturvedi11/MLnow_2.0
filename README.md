@@ -2,14 +2,8 @@
 
 Univariate Linear regression prediction is an algorithm in machine learning for dealing with univariate continuous data.
 
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  <br />
+
   <a href="https://github.com/hritikchaturvedi11/MLnow_2.0">
     <img src="MLnow_2.0.jpg" alt="Logo" width="180" height="180">
   </a>
@@ -98,12 +92,4 @@ Hritik Chaturvedi - [@your_linkedin](https://www.linkedin.com/in/hritik-chaturve
 
 Project Link: [https://github.com/hritikchaturvedi11/MLnow_2.0](https://github.com/hritikchaturvedi11/MLnow_2.0)
 
-
-
-[forks-shield]: https://img.shields.io/github/forks/hritikchaturvedi11/MLnow_2.0
-[forks-url]: https://github.com/hritikchaturvedi11/MLnow_2.0/network/members
-[stars-shield]: https://img.shields.io/github/stars/hritikchaturvedi11/MLnow_2.0
-[stars-url]: https://github.com/hritikchaturvedi11/MLnow_2.0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hritikchaturvedi11/MLnow_2.0
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 
