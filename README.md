@@ -12,11 +12,9 @@ Univariate Linear regression prediction is an algorithm in machine learning for 
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -24,7 +22,7 @@ Univariate Linear regression prediction is an algorithm in machine learning for 
 <br />
 <p align="center">
   <a href="https://github.com/hritikchaturvedi11/MLnow_2.0">
-    <img src="MLnow_2.0.jpg" alt="Logo" width="80" height="80">
+    <img src="MLnow_2.0.jpg" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Repo for univariate linear regression</h3>
@@ -71,8 +69,6 @@ Univariate Linear regression prediction is an algorithm in machine learning for 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Univeriate linear regression][Univeriate linear regression]](https://miro.medium.com/max/5628/1*A7eQBNrdf8FLtQlWfPW8zw.png)
 
 The main idea behind creating this repo was too, implement the linear regression for univariate problem set using neural approach. This project will have two files. Both these files have been used to explore different datasets and perform EDA and than our regression problem on them.
 
