@@ -3,24 +3,13 @@
 Univariate Linear regression prediction is an algorithm in machine learning for dealing with univariate continuous data.
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  <br />
   <a href="https://github.com/hritikchaturvedi11/MLnow_2.0">
     <img src="MLnow_2.0.jpg" alt="Logo" width="180" height="180">
   </a>
